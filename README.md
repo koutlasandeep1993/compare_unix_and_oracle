@@ -1,7 +1,7 @@
 # compare_unix_and_oracle
  This python will compare the data between file in unix and oracle database
 
-# Congigurations:
+# Configurations:
  This python should be called by cmd promt as we are passing argument.please find below cmd
  #python "C:\compare_2_files.py" --SRC C:\file_1.txt --TGT C:\file_2.txt --TGT-SRC C:\tgt_not_src.csv --SRC-TGT C:\src_not_tgt.csv
  
