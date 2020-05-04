@@ -1,0 +1,8 @@
+{
+ "Para":[
+         {"ftp_file":"unix_path/filename.csv","ftp_host":"host_name",
+		 "ftp_user":"username","ftp_passwd":"pass","oracle_conn_str":"oracleuser/password@hostname:port/server",
+		 "oracle_sql":"Oracle sql select query in the order of file"
+		 }
+        ]
+}
